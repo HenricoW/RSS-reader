@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Folder]
+(
+	[FolderID] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [FolderName] VARCHAR(50) NOT NULL
+)

@@ -1,0 +1,13 @@
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\bin\Debug\RSS_reader.exe.config
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\bin\Debug\RSS_reader.exe
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\bin\Debug\RSS_reader.pdb
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\obj\Debug\RSS_reader.csprojResolveAssemblyReference.cache
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\obj\Debug\RSS_reader.MainForm.resources
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\obj\Debug\RSS_reader.Properties.Resources.resources
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\obj\Debug\RSS_reader.csproj.GenerateResource.Cache
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\obj\Debug\RSS_reader.exe
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\obj\Debug\RSS_reader.pdb
+c:\users\henrico\documents\visual studio 2017\Projects\RSS_reader\RSS_reader\obj\Debug\RSS_reader.ChannelDialog.resources
+C:\Users\Henrico\Documents\Visual Studio 2017\Projects\RSS_reader\RSS_reader\bin\Debug\rss.mdf
+C:\Users\Henrico\Documents\Visual Studio 2017\Projects\RSS_reader\RSS_reader\bin\Debug\rss_log.ldf
+C:\Users\Henrico\Documents\Visual Studio 2017\Projects\RSS_reader\RSS_reader\obj\Debug\RSS_reader.FolderDialog.resources

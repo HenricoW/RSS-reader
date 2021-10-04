@@ -1,7 +1,3 @@
 # RSS-reader
 
-This was a basic project to learn C# that I did in 2017.
-
-Not much to see here.
-
-But from here, we carry on.
+An RSS reader in C# (Windows Forms). Maintains a local database, fetches updates on startup. Has functionality for all CRUD on RSS feeds. 
